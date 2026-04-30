@@ -12,7 +12,7 @@ def get_songs():
         },
         {
             "title": "Oceans",
-            "key": "D"
+            "key": "F"
         }
     ]
 
